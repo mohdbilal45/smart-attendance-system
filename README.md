@@ -30,4 +30,4 @@ Python, OpenCV (opencv-contrib-python), NumPy, pandas, Pillow, yagmail
 - Face images and attendance records are not included, for privacy.
 
 ## Acknowledgements
-Based on an open-source face recognition attendance project. Modified for our college project with the help of AI tools.
+Based on an open-source face recognition attendance project.Developed and customized by our team using online resources and AI tools.
